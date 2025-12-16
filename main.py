@@ -7,10 +7,10 @@ from aiogram.fsm.state import State, StatesGroup
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 # 🔑 НАСТРОЙКИ
-BOT_TOKEN = "PASTE_YOUR_BOT_TOKEN_HERE"
+BOT_TOKEN = 8479191763:AAGtbPDmwQp_iwsMe6VBHwo7XEqenYRCmXE
 ADMIN_USERNAME = "@kerilsnimaet"
 
-bot = Bot(token=BOT_TOKEN)
+bot = Bot(token=8479191763:AAGtbPDmwQp_iwsMe6VBHwo7XEqenYRCmXE)
 dp = Dispatcher()
 
 # ---------- STATES ----------
